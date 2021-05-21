@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WebRTC project.
-- 🌱 I’m currently learning more about CSS Animations and SVG.
+- 🔭 I’m currently WOKRING on WebRTC project.
+- 🌱 I’m currently LEARNING more about CSS Animations and SVG.
