@@ -1,6 +1,5 @@
-### Hi...
+### Hello World
 
-- :v: Working on WebRTC project.
 - :point_right: Almost projects are using ReactJS.
 - :metal: Retweet CSS tips/tricks on Twitter.
 - :star: `Star` for useful repositories on Github.
@@ -42,5 +41,3 @@
 ### Find the answer on....
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
