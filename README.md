@@ -1,7 +1,7 @@
 ### Hello World
 
 - :point_right: Almost projects are using ReactJS.
-- :metal: Retweet CSS tips/tricks on Twitter.
+- :metal: Retweet Frontend tips/tricks on Twitter.
 - :star: `Star` for useful repositories on Github.
 
 
