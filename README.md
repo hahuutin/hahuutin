@@ -3,7 +3,10 @@
   fullName="Hà Hữu Tín"
   age={30}
   from="Vietnamese"
-  roles=[A Junior Frontend Developer / Dad of 2 Boys]
+  roles=[
+    "Always be a Junior Frontend Dev",
+    "Dad of 2 Boys"
+  ]
   hobbies=[
     "Retweet about Frontend tips/tricks on Twitter",
     "Press `Star` for useful repositories on Github",
