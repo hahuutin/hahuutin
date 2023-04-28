@@ -7,10 +7,17 @@
     "Always be a Junior Frontend Dev",
     "Dad of 2 Boys"
   ]}
-  hobbies={[
-    "Retweet about Frontend tips/tricks on Twitter",
-    "Press `Star` for useful repositories on Github",
-    "BBQ && (chill with) Beer",
+  10facts={[
+    "1. Retweet about Frontend tips/tricks on Twitter everyday",
+    "2. Press `Star` for useful repositories on Github although not used yet",
+    "3. Love web animation for a long time but can't do any animation projects yet",
+    "4. Bookmark a lot of things in Chrome but rarely read",
+    "5. Can't stay up late to coding like before",
+    "6. Overwhelmed by Frontend technologies that changes every day",
+    "7. Code for money rather than passion",
+    "8. Buy a book, put it on the shelf, but don't read it",
+    "9. Meet friends, eat BBQ, drink beer and sing karaoke",
+    "10. Likes a lot of things, but doesn't focus on anything yet"
   ]}
 />
 ```
