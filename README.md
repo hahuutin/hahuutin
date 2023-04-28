@@ -15,7 +15,7 @@
     "5. Can't stay up late to coding like before",
     "6. Overwhelmed by Frontend technologies that changes everyday",
     "7. Code for money rather than passion",
-    "8. Buy a book, put it on the shelf, but don't read it",
+    "8. Buy a book, put it on the shelf, but haven't read any yet",
     "9. Meet friends, eat BBQ, drink beer and sing karaoke",
     "10. Likes a lot of things, but doesn't focus on anything yet"
   ]}
