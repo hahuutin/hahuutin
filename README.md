@@ -13,7 +13,7 @@
     "3. Love web animation for a long time but can't do any animation projects yet",
     "4. Bookmark a lot of things in Chrome but rarely read",
     "5. Can't stay up late to coding like before",
-    "6. Overwhelmed by Frontend technologies that changes every day",
+    "6. Overwhelmed by Frontend technologies that changes everyday",
     "7. Code for money rather than passion",
     "8. Buy a book, put it on the shelf, but don't read it",
     "9. Meet friends, eat BBQ, drink beer and sing karaoke",
