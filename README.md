@@ -4,20 +4,20 @@
   age={30}
   from="Vietnamese"
   roles={[
-    "Always be a Junior Frontend Dev",
-    "Dad of 2 Boys"
+    'Always be a Junior Frontend Dev',
+    'Dad of 2 Boys'
   ]}
   10facts={[
-    "1. Retweet about Frontend tips/tricks on Twitter everyday",
-    "2. Press `Star` for useful repositories on Github although not used yet",
-    "3. Love web animation for a long time but can't do any animation projects yet",
-    "4. Bookmark a lot of things in Chrome but rarely read",
-    "5. Can't stay up late to coding like before",
-    "6. Overwhelmed by Frontend technologies that changes everyday",
-    "7. Code for money rather than passion",
-    "8. Buy a book, put it on the shelf, but haven't read any yet",
-    "9. Meet friends, eat BBQ, drink beer and sing karaoke",
-    "10. Likes a lot of things, but doesn't focus on anything yet"
+    `1. Retweet about Frontend tips/tricks on Twitter every day.`,
+    `2. Press `Star` for useful repositories on Github although not used yet.`,
+    `3. I have loved web animation for a long time but can't do any animation projects yet.`,
+    `4. Bookmark a lot of things in Chrome but rarely read.`,
+    `5. Can't stay up late to coding like before.`,
+    `6. Overwhelmed by Frontend technologies that change every day.`,
+    `7. Code for money rather than passion.`,
+    `8. Buy a book, put it on the shelf, but haven't read any yet.`,
+    `9. Meet friends, eat BBQ, drink beer, and sing karaoke.`,
+    `10. Likes a lot of things, but doesn't focus on anything yet.`
   ]}
 />
 
@@ -49,7 +49,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### And another tools...
+### And other tools...
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -64,6 +64,6 @@
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
 
-### Find the answer on....
+# # # Could you find the answer on...
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
