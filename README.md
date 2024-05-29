@@ -9,7 +9,7 @@
   ]}
   10facts={[
     `1. Retweet about Frontend tips/tricks on Twitter every day.`,
-    `2. Press `Star` for useful repositories on Github although not used yet.`,
+    `2. Press "Star" for useful repositories on Github although not used yet.`,
     `3. I have loved web animation for a long time but can't do any animation projects yet.`,
     `4. Bookmark a lot of things in Chrome but rarely read.`,
     `5. Can't stay up late to coding like before.`,
