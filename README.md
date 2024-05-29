@@ -25,7 +25,7 @@
   editor="VSCode"
   editorFont={['JuliaMono', 'Fantasque Sans Mono']}
   terminalFont="Mononoki Nerd Font"
-  theme={['Gruvbox Themes', 'Braver's Solarized']}
+  theme={['Gruvbox Themes', 'Solarized']}
   iconTheme="symbols"
   productIconTheme="fluent-icons"
 />
