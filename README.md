@@ -20,11 +20,12 @@
     "10. Likes a lot of things, but doesn't focus on anything yet"
   ]}
 />
+
 <Use
-  editor="VS Code"
-  editorFont="JuliaMono"
+  editor="VSCode"
+  editorFont={['JuliaMono', 'Fantasque Sans Mono']}
   terminalFont="Mononoki Nerd Font"
-  theme={['Monokai', 'Solarized']}
+  theme={['Gruvbox Themes', 'Braver's Solarized']}
   iconTheme="symbols"
   productIconTheme="fluent-icons"
 />
