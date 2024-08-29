@@ -23,11 +23,11 @@
 
 <Use
   editor="VSCode"
-  editorFont={['JuliaMono', 'Fantasque Sans Mono']}
-  terminalFont="Mononoki Nerd Font"
-  theme={['Gruvbox Themes', `Braver's Solarized`]}
-  iconTheme="symbols"
-  productIconTheme="fluent-icons"
+  editorFont={['Monolisa Trial', 'Hack JBM Ligatured', 'Zed Mono Expanded', 'Fira Code Retina', 'Fira Code iScript', 'JetBrains Mono', 'Dank Mono', 'Input Mono Regular', 'Delugia Book', 'Monaspace Krypton', 'Iosevka Expanded', 'Monaco for Powerline', 'JuliaMono Regular', 'Fantasque Sans Mono', 'Hasklig Regular', 'MonoLisa Trial', 'Martian Mono sWd Lt', 'M+ 1m', 'Lilex ExtraThick', 'IntelOne Mono Regular', 'Operator Mono Lig', 'IBM Plex Mono', 'Mononoki Nerd Font', 'Cascadia Code Regular', 'Victor Mono']}
+  terminalFont="UbuntuMono Nerd Font"
+  theme="(VSCode) Default Dark Modern"
+  iconTheme="Catppuccin Icons for VSCode"
+  productIconTheme="Fluent Icons"
 />
 ```
 
