@@ -1,7 +1,7 @@
 ```jsx
 <AboutMe
   fullName="Hà Hữu Tín"
-  age={30}
+  age={32}
   from="Vietnamese"
   roles={[
     'Always be a Junior Frontend Dev',
